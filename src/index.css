@@ -1,0 +1,13 @@
+.App{
+  margin: auto;
+  max-width: 800px
+}
+
+h1{
+  text-align: center
+}
+.row{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around
+}
